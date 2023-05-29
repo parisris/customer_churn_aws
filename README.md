@@ -17,3 +17,4 @@ Project Workflow:
 11. Continuous Updates: Establish a system to handle periodic updates to the data pipeline, enabling the automatic update of the RDS database and Tableau dashboards when new data becomes available.
 
 AWS work flow
+![AWS Diagram](https://github.com/parisris/customer_churn_aws/blob/main/img/Diagram.png)
